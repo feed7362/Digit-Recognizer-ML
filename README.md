@@ -10,6 +10,8 @@ List and briefly describe the main files in your repository:
 
 - Digit Recognizer (ML).ipynb: Jupyter notebook containing the main analysis, modeling code and some statistic.
 
+- Digit Recognizer (ML-Tensorflow).ipynb: Jupyter notebook containing the main analysis, modeling code and visual statistic.
+
 - train.csv: CSV file containing the training dataset.
 
 - test.csv: CSV file containing the test dataset for making predictions.
@@ -40,23 +42,23 @@ Install dependencies:
 ```sh
 pip install -r requirements.txt
 ```
-Open and run the Digit Recognizer (ML).ipynb notebook using Jupyter or any compatible environment.
+Open and run the Digit Recognizer (ML).ipynb or Digit Recognizer (ML-Tensorflow).ipynb notebook using Jupyter or any compatible environment.
 
 # Approach
 
 - Data preprocessing: Handling missing values, feature engineering.
 
-- Model selection: SVC
+- Model selection: SVC, Tensorflow
 
-- Model evaluation: Score.
+- Model evaluation: Score, accuracy, loss.
 
 # Results
 
 Accuracy achieved on the test set.
 
-- Kaggle accuracy:  0.93260
+- Kaggle accuracy:  0.98978
 
-- Random accuracy from dataset: 0.93030
+- Random accuracy from dataset: 0.9916
 
 # Kaggle Competition
 
