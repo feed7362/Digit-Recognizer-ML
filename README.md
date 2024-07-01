@@ -56,9 +56,9 @@ Open and run the Digit Recognizer (ML).ipynb or Digit Recognizer (ML-Tensorflow)
 
 Accuracy achieved on the test set.
 
-- Kaggle accuracy:  0.98978
+- Kaggle accuracy:  0.99503
 
-- Random accuracy from dataset: 0.9916
+- Random accuracy from dataset: 0.9957
 
 # Kaggle Competition
 
